@@ -107,7 +107,7 @@ Optimized using Grid Search and produced highly accurate predictions.
 
 ---
 
-Installation
+## Installation
 
 ### Clone the Repository
 
