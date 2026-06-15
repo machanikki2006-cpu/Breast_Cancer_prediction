@@ -112,7 +112,7 @@ Optimized using Grid Search and produced highly accurate predictions.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cancer-prediction-model.git
+git clone https://github.com/machanikki2006-cpu/Breast_Cancer_prediction.git
 ```
 
 
